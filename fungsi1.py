@@ -10,3 +10,7 @@ print(str1,str2)
 x = [1,2,3]
 y = [4,5,6]
 print(tambah(x,y))
+
+nama = "andi"
+nilai = 75
+print(tambah(nama,nilai))
